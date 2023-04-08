@@ -15,10 +15,9 @@ React homescreen with apps: digital clock, todo list, categorized notes page and
 
 
 ### Links
-![night-mobile](https://user-images.githubusercontent.com/121173949/230742257-9db89198-fdd5-4a60-803b-13c728fe16f7.jpg)
-
 
 ### Screenshot
+![Screenshot](https://user-images.githubusercontent.com/121173949/230742286-8ae12b43-530a-4762-a33f-b59af76147cc.png)
 
 
 
