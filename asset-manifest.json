@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactApps.git/static/css/main.fc66d88a.css",
+    "main.js": "/ReactApps.git/static/js/main.59ad9e8d.js",
+    "static/media/day.jpg": "/ReactApps.git/static/media/day.bca6df5bc03ed9094851.jpg",
+    "static/media/night.jpg": "/ReactApps.git/static/media/night.12616b172e3efbe37432.jpg",
+    "static/media/night-mobile.jpg": "/ReactApps.git/static/media/night-mobile.edb4dbf9aab091b88240.jpg",
+    "static/media/morning.jpg": "/ReactApps.git/static/media/morning.a1e50807fc69f4933006.jpg",
+    "static/media/spinner.gif": "/ReactApps.git/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "index.html": "/ReactApps.git/index.html",
+    "main.fc66d88a.css.map": "/ReactApps.git/static/css/main.fc66d88a.css.map",
+    "main.59ad9e8d.js.map": "/ReactApps.git/static/js/main.59ad9e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc66d88a.css",
+    "static/js/main.59ad9e8d.js"
+  ]
+}
