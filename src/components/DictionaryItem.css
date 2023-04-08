@@ -1,0 +1,8 @@
+.item {
+    opacity: 1;
+    transition: all 1s ease-in-out
+  }
+  
+.item.fade-away {
+    opacity: 0; 
+  }
