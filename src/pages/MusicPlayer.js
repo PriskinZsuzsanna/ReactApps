@@ -4,7 +4,6 @@ import styled from 'styled-components';
 
 import { GlobalContext } from '../context/GlobalState'
 
-//import sound from '../sounds/NewMoon.mp3'
 
 const HeaderText = styled.h2`
 text-align: center; 
