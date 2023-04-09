@@ -28,7 +28,6 @@ const Footer = () => {
         <Button><li><Link to="/">Home</Link></li></Button>
         <Button><li><Link to="/notes">Jegyzetek</Link></li></Button>
         <Button><li><Link to="/dictionary">Szótár</Link></li></Button>
-        <Button><li><Link to="/musicplayer">Zenelejátszó</Link></li></Button>
       </ul>
     </nav>
   </footer>
