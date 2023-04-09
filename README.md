@@ -18,7 +18,8 @@ React homescreen with apps: digital clock, todo list, categorized notes page and
 https://priskinzsuzsanna.github.io/ReactApps/
 
 ### Screenshot
-![Screenshot](https://user-images.githubusercontent.com/121173949/230742286-8ae12b43-530a-4762-a33f-b59af76147cc.png)
+![Screenshot 2023-04-09 210017](https://user-images.githubusercontent.com/121173949/230791590-4970765b-2183-44e3-90ba-8f9275631d8c.png)
+
 
 
 
