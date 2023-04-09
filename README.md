@@ -1,13 +1,14 @@
 ## Overview
-React homescreen with apps: digital clock, todo list, categorized notes page and dictionary with local storage, music player.
+React homescreen with apps: digital clock, todo list, categorized notes page and dictionary with local storage.
 
 ### Built with
 
 - REACT
 - HOOKS
 - UseCONTECXT
-- REACT ROUTER
+- REACT ROUTER, HASH ROUTER
 - STYLED COMPONENTS
+- LOCAL STORAGE
 - HTML
 - CSS
 - MOBILE FIRST WORKFLOW
