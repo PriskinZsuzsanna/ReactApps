@@ -3,6 +3,10 @@ import React, { useContext, useEffect, useState, useRef } from 'react'
 import styled from 'styled-components';
 
 import { GlobalContext } from '../context/GlobalState'
+import Sound1 from '../sounds/15-Alexandre Desplat – New Moon (The Meado).mp3'
+import Sound2 from '../sounds/LakeHouse.mp3'
+import Sound3 from '../sounds/NewMoon.mp3'
+import Sound4 from '../sounds/yann_tiersen-la_valse_damelie_piano_version.mp3'
 
 
 const HeaderText = styled.h2`
