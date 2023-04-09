@@ -17,11 +17,11 @@ function App() {
         <div className="App">
 
           <Routes>
-            <Route path="/" component={<Home />} />
-            <Route path="/:username" component={<Home />} />
-            <Route path="/notes" component={<Notes />} />
-            <Route path="/dictionary" component={<Dictionary />} />
-            <Route path="/musicplayer" component={<MusicPlayer />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/:username" element={<Home />} />
+            <Route path="/notes" element={<Notes />} />
+            <Route path="/dictionary" element={<Dictionary />} />
+            <Route path="/musicplayer" element={<MusicPlayer />} />
           </Routes>
 
           <Footer />
