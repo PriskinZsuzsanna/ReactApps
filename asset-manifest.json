@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactApps/static/css/main.8ff409fb.css",
-    "main.js": "/ReactApps/static/js/main.572ea8d7.js",
+    "main.js": "/ReactApps/static/js/main.46663baf.js",
     "static/media/day.jpg": "/ReactApps/static/media/day.bca6df5bc03ed9094851.jpg",
     "static/media/night.jpg": "/ReactApps/static/media/night.12616b172e3efbe37432.jpg",
     "static/media/night-mobile.jpg": "/ReactApps/static/media/night-mobile.edb4dbf9aab091b88240.jpg",
@@ -9,10 +9,10 @@
     "static/media/spinner.gif": "/ReactApps/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
     "index.html": "/ReactApps/index.html",
     "main.8ff409fb.css.map": "/ReactApps/static/css/main.8ff409fb.css.map",
-    "main.572ea8d7.js.map": "/ReactApps/static/js/main.572ea8d7.js.map"
+    "main.46663baf.js.map": "/ReactApps/static/js/main.46663baf.js.map"
   },
   "entrypoints": [
     "static/css/main.8ff409fb.css",
-    "static/js/main.572ea8d7.js"
+    "static/js/main.46663baf.js"
   ]
 }
